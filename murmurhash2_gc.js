@@ -48,3 +48,6 @@ function murmurhash2_32_gc(str, seed) {
 
   return h >>> 0;
 }
+
+module.exports = murmurhash2_32_gc;
+
