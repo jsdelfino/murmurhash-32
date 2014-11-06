@@ -1,0 +1,14 @@
+{
+  "name": "murmurhash-32",
+  "description": "An optimized JavaScript implementation of the MurmurHash algorithms",
+  "readme": "README.md",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "license": "MIT",
+  "repository": {}
+}
